@@ -1,0 +1,9 @@
+To start the project run:
+
+parcel index.html
+json-server -w db.json
+
+or
+
+npm run start:db
+npm run start:parcel
